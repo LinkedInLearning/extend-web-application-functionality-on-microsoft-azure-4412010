@@ -33,6 +33,6 @@ This folder contains the completed versions of:
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/extend-web-application-functionality-on-microsoft-azure
 [lil-thumbnail-url]: http://
-[build-webapp-url]: https://github.com/LinkedInLearning/building-a-web-application-on-microsoft-azure-4405955
+[build-webapp-url]: https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696
