@@ -47,4 +47,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/extend-web-application-functionality-on-microsoft-azure
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEo_OwywchEvQ/learning-public-crop_675_1200/0/1696279965426?e=2147483647&v=beta&t=yMnhofxlXBPLE6O7xzW04jTWhjMlmu4N_C1WbwUXDug
-[build-webapp-url]: https://www.linkedin.com/learning/extend-web-application-functionality-on-microsoft-azure
+[build-webapp-url]: https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696
